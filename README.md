@@ -1,4 +1,5 @@
 🛒 Superstore Sales Data Analysis
+
 This project analyzes sales data from a fictional Superstore to extract insights on revenue, profit, regional trends, and product performance using Pandas and Plotly. The goal is to demonstrate data cleaning, exploration, and visualization skills in a real-world business context.
 
 📊 Project Overview
