@@ -25,12 +25,16 @@ Superstore sales data.ipynb- Main notebook with all analysis and charts | dashbo
     • Time-series analysis to detect seasonal or monthly trends. 
 
 📈 Visualizations
+
 All charts are saved as interactive HTML files using Plotly, including:
     • Bar charts (top/bottom cities) 
     • Pie chart (regional sales distribution) 
     • Horizontal bar charts (profit by sub-category) Or view the dashboard.html in your browser. 
+    
 🚀 How to Run
     • Clone the repo: 
+    
 git clone https://github.com/your-username/superstore-sales-analysis.git
+
 cd superstore-sales-analysis
 2.Open the notebook: jupyter notebook 3.Or view the dashboard.html in your browser.
