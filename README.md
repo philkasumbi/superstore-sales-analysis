@@ -37,4 +37,7 @@ All charts are saved as interactive HTML files using Plotly, including:
 git clone https://github.com/your-username/superstore-sales-analysis.git
 
 cd superstore-sales-analysis
-2.Open the notebook: jupyter notebook 3.Or view the dashboard.html in your browser.
+
+2.Open the notebook: jupyter notebook 
+
+3.Or view the dashboard.html in your browser.
